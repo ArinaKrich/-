@@ -1,0 +1,115 @@
+body{
+margin: 0 auto;
+font-family: "Cuprum";
+}
+header{
+  width: 1200px;
+  height: 324px;
+  background: #F1F5F7;
+
+}
+.menu-user{
+  width: 1070px;
+  height: 42px;
+  display: flex;
+  padding-left: 130px;
+  background-color: #293449;
+  margin-bottom: 43px;
+}
+.poisk{
+width: 290px;
+background-color: #293449;
+border: none;
+color: #FFFFFF;
+font-size: 18px;
+}
+.menu-zakaz{
+list-style: none;
+align-items: center;
+display: flex;
+margin-right: 130px;
+width: 560px;
+justify-content: space-between;
+
+}
+.menu-zakaz a{
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 18px;
+}
+.order{
+background-color: green;
+padding: 10px 16px 9px 19px;
+
+}
+.cotn-user{
+margin-left: 130px;
+width: 940px;
+height: 71px;
+display: flex;
+justify-content: space-between;
+
+}
+h1{
+  font-family: "Cuprum";
+  width: 197px;
+  color: #EE3643;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 42px;
+
+}
+.contact{
+  width: 300px;
+  height: 70px;
+}
+.contact a{
+  font-size: 21px;
+  color: #EE3643;
+  border: 3px solid white;
+  padding: 7px 45px 8px 74px;
+  text-decoration: none;
+
+}
+.address{
+    font-size: 14px;
+}
+.registr-user{
+font-size: 21px;
+color:black;
+list-style: none;
+width: 300px;
+display: flex;
+justify-content: space-around;
+}
+.entry{
+  text-decoration: none;
+  background: white;
+  padding:12px 27px 12px 45px;
+}
+.registration{
+  text-decoration: none;
+  background: white;
+  padding:12px 24px;
+}
+.header-nav{
+width: 940px;
+height: 60px;
+display: flex;
+list-style: none;
+justify-content: space-around;
+margin-left: 90px;
+background-color: #32425C;
+font-size: 18px;
+box-shadow: 0px -5px 0px 0px #293449 inset;
+align-items: center;
+margin-left: 120px;
+padding: 0;
+}
+.header-nav a{
+  color:white;
+  text-decoration: none;
+}
